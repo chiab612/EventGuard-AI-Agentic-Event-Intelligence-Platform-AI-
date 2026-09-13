@@ -1,0 +1,6 @@
+{
+  "name": "EventGuard AI",
+  "description": "Agentic Event Intelligence Platform — AI 活動智慧分析與報名者決策輔助平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
